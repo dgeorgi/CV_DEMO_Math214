@@ -1,5 +1,7 @@
 # CV_DEMO_Math214
 
+Contributors: Cole Doyle, Dae Hyun Kim, David Georgi, Karsin Dass
+
 The demos and associated files needed for our math214 final project.
 
 ## How to Use
