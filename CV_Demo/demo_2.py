@@ -13,7 +13,7 @@ root.geometry("800x600")
 # Initialize OpenCV's face detector
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
-# Capture video from the webcam (you might need to install OpenCV's VideoCapture)
+# Capture video from the webcam
 cap = cv2.VideoCapture(0)
 
 # Create a function to update the displayed image
