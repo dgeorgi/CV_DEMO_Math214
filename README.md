@@ -22,5 +22,6 @@ If you are running a demo that requires an image (e.g., the first demo), use thi
 
 **Example:**
 python3 [path/to/demo_1] [path/to/image]
+
 Here, replace `[path/to/demo_1]` with the path to the demo file and `[path/to/image]` with the path to the required image file.
 
